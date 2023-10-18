@@ -1,7 +1,7 @@
 # \*★,°*:.☆(￣▽￣)/$:*.°★\* 。
-We're Voxelified from [Voxelified](https://www.voxelified.com/team/voxelified)!
+We're HAKUMI from [HAKUMI](https://www.voxelified.com/team/voxelified)!
 
-Creators of [mellow](https://github.com/Excalware/mellow), [flake](https://github.com/Excalware/flake), [HERO](https://github.com/hero-devs/HERO), and some other stuff!<br/>
+Creators of [mellow](https://github.com/voxelified/mellow), [flake](https://github.com/voxelified/flake), [HERO](https://github.com/hero-devs/HERO), and some other stuff!<br/>
 We develop experiences and products on [Roblox](https://www.roblox.com/groups/14242138), check us out!
 
 <br/><br/>
