@@ -1,8 +1,14 @@
+![image](https://github.com/user-attachments/assets/9059bd87-0a65-49b1-b1ef-1cf3d7d743b3)
+
 # \*★,°*:.☆(￣▽￣)/$:*.°★\* 。
-We're HAKUMI from [HAKUMI](https://hakumi.cafe/team/hakumi)!
+HAKUMI is an up-and-coming technology studio fuelled by creativity and experimentation.
 
-Creators of [mellow](https://github.com/hakusoda/mellow), [NIKOMAIL](https://github.com/hakusoda/NIKOMAIL), [HAKUREALITY](https://github.com/hakusoda/HAKUREALITY), and a bunch of other stuff!<br/>
-We develop experiences and products on [Roblox](https://www.roblox.com/groups/14242138), check us out!
-<br/>
+This organisation holds all of our open-source projects, feel free to take a peek and contribute! ❤️
 
-##### Amalgamate with the ecstatic garden of KIT-YINS over on [Discord](https://discord.com/invite/rs3r4dQu9P)!
+## What we're working on...
+We have several projects in constant development, along with a ton of future plans!
+
+Here's some notable mentions:
+* 🎀 [Ribbon](https://github.com/hakusoda/ribbon) — A friendly Roblox Service for Discord.
+* 🛠️ [MIDAK Engine](https://github.com/hakusoda/MIDAK) — A modern development engine for Roblox, currently being prototyped internally!
+* 💌 [NIKOMAIL](https://github.com/hakusoda/NIKOMAIL) (working title) — An experimental anonymous mailing system for Discord.
